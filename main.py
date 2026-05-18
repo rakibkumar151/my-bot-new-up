@@ -1,4 +1,4 @@
-import asyncio
+﻿import asyncio
 import aiohttp
 from telebot.async_telebot import AsyncTeleBot
 from telebot import types
@@ -151,8 +151,8 @@ LIVE_GROUP_ID = -1003211549283   # <--- লাইভ ফিড গ্রুপ I
 FORCE_GROUP_ID = -1003211549283  # <--- মেইন গ্রুপ ID (যেখানে মেম্বার চেক হবে)
 
 # এই লিংকগুলো বাটনে সেট হবে
-FORCE_LINK = "https://t.me/+u6r8dxTfsaaU9"      # <--- Channel/Group Link
-BOT_LINK = "https://t.me/Al"          # <--- Bot Link (e.g. https://t.me/FastOTPBot)
+FORCE_LINK = "https://t.me/+u6r8dxTcekVlZGU9"      # <--- Channel/Group Link
+BOT_LINK = "https://t.me/Riyad2992"          # <--- Bot Link (e.g. https://t.me/FastOTPBot)
 # ==========================================
 #   🔥 CONFIGURATION AREA (SECURE)
 # ==========================================
